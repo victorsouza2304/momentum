@@ -1,20 +1,20 @@
-/* Reset básico */
+
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
 }
 
-/* Texto principal (título) */
+
 .texto {
-  font-size: 50px;   /* título maior */
-  text-align: center; /* mantém o conteúdo centralizado */
+  font-size: 50px;  
+  text-align: center;
 }
 
-/* Parágrafos de conteúdo */
 .paragrafo {
-  font-size: 40px;   /* parágrafo menor que o título */
-  line-height: 1.4;  /* espaçamento entre linhas */
-  text-align: justify; /* deixa o texto alinhado dos dois lados */
+  font-size: 40px;   
+  line-height: 1.4; 
+  text-align: justify; 
   background-color: red;
+
 }
